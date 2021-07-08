@@ -1,6 +1,6 @@
 # Quasar Electron Builder with Wine
 
-[Docker Hub](https://hub.docker.com/r/sonoransoftware/quasar-electron-builder) 
+[Docker Hub](https://hub.docker.com/r/sonoransoftware/quasar-electron-builder)  
 [GitHub Repo](https://github.com/Sonoran-Software/quasar-electron-builder)
 
 [Join our Discord Server](https://Discord.SonoranSoftware.com)
