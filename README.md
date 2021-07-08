@@ -1,4 +1,4 @@
-# Quasar Election Builder with Wine
+# Quasar Electron Builder with Wine
 
 [Docker Hub](https://hub.docker.com/r/sonoransoftware/quasar-electron-builder) 
 [GitHub Repo](https://github.com/Sonoran-Software/quasar-electron-builder)
